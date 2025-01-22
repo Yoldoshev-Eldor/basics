@@ -1,1 +1,1 @@
-# basics
+Basics. Takrorlash boʻlimi uchun 1-amaliy vazifa
